@@ -9,4 +9,4 @@ if you don't know python programing then simply chenge series via series in code
 
 `series = lambda a: <<your series in a>>`
 
-one more thing is if you sure it's converging than you can do less computing by removing codes after f(xxx)
+one more thing is if you sure it's converging than you can do less computing by removing codes after `f(xxx)`
